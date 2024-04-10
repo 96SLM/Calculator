@@ -390,6 +390,7 @@
             // 
             // btnMemory
             // 
+            btnMemory.Enabled = false;
             btnMemory.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnMemory.ForeColor = SystemColors.WindowText;
             btnMemory.Location = new Point(22, 41);
